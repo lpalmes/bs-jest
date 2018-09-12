@@ -1,5 +1,6 @@
 {
   "name": "@glennsl/bs-jest",
+  "allowed-build-kinds": "js",
   "bsc-flags": ["-bs-no-version-header", "-bs-super-errors"],
   "sources": [
     {
